@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./06-Running-Our-First-Nodejs-Code/script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jawad-stack/nodejs-learning.git"
+  },
+  "keywords": [
+    "nodejs-learning"
+  ],
+  "author": "Jawad Iqbal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jawad-stack/nodejs-learning/issues"
+  },
+  "homepage": "https://github.com/jawad-stack/nodejs-learning#readme"
+}
